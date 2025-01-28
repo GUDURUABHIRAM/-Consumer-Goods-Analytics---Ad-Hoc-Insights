@@ -218,13 +218,11 @@ from cte
 
 with cte as 
 
-(select division,
+(select 
 
-        p.product_code,
-        
-        product,
+division,p.product_code,product,
 		
-  sum(sold_quantity) as total_sold_quantity
+sum(sold_quantity) as total_sold_quantity
 
 from gdb0041.fact_sales_monthly s
 
@@ -246,6 +244,3 @@ select * from rnk
 
 where rank_order <=3
 
-
-
-all Ad-hoc SQL Queries - In this file you will find  all the Answers
