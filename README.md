@@ -1,4 +1,4 @@
-# Consumer-Goods-Analytics---Ad-Hoc-Insights
+# Consumer Goods Analytics Ad-Hoc-Insights
 ## Project Overview and Problem Statement
 
 AtliQ Hardware is a leading computer hardware producer in India with a strong presence in international markets. However, the management has observed a lack of actionable insights to support quick and informed decision-making. As a Data Analyst, I have been contributing by providing valuable insights through various ad hoc requests.
